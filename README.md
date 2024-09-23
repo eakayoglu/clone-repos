@@ -16,8 +16,8 @@ Ensure you have the following installed:
 
 1. Clone the repository:
     ```sh
-    git clone <repository_url>
-    cd <repository_directory>
+    git clone https://github.com/eakayoglu/clone-repos.git
+    cd clone-repos
     ```
 
 2. Install the required Python packages:
